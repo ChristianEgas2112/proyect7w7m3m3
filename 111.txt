@@ -2,3 +2,13 @@ git branch nombre de rama
 git checkout nombre de la rama
 git push
 git push --set-upstream origin login
+git branch -d nombre de la rama 
+git push origin :nombre de la rama
+
+$ git init
+$ git add .
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin https://github.com/crinter/proyect7w7m3m3.git
+$ git push -u origin main 
+ git log
