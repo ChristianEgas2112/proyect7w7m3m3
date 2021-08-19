@@ -1,0 +1,4 @@
+git branch nombre de rama
+git checkout nombre de la rama
+git push
+git push --set-upstream origin login
