@@ -7,7 +7,15 @@ body
     margin: 0;
     padding: 0;
 }
-
+#cebecera
+{
+    background: purple;
+    box-shadow: opx 2px 50px 0px black rgba(red, green, blue, alpha);
+    color: seashell;
+    font-weight: bold;
+    margin: 0;
+    padding: 9.5cm;
+}
 #container 
 {
     width: 70%;
